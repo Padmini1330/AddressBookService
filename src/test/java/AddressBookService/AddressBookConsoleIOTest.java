@@ -109,7 +109,6 @@ public class AddressBookConsoleIOTest
 		{
 			e.getMessage();
 		}
-		
 	}
 	
 	@Test
