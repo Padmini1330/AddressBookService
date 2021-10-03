@@ -179,7 +179,6 @@ public class AddressBookDatabaseIOTest
 		{
 			System.out.println(e.getMessage());
 		}
-		
 	}
 	
 	@Test
